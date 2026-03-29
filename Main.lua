@@ -22,7 +22,7 @@ UICorner.Parent = ToggleButton
 local Window = Rayfield:CreateWindow({
    Name = "dexngoxhub",
    LoadingTitle = "Đang tải Script...",
-   LoadingSubtitle = "by Nguyen Ngoc Thai",
+   LoadingSubtitle = "by dexngoxyeuem",
    ConfigurationSaving = {
       Enabled = false
    }
