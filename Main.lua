@@ -20,7 +20,7 @@ UICorner.Parent = ToggleButton
 
 -- 3. Tạo Cửa Sổ Menu (Mặc định sẽ ẩn khi mới chạy)
 local Window = Rayfield:CreateWindow({
-   Name = "Gravi-Meme Hub 😈",
+   Name = "dexngoxhub",
    LoadingTitle = "Đang tải Script...",
    LoadingSubtitle = "by Nguyen Ngoc Thai",
    ConfigurationSaving = {
